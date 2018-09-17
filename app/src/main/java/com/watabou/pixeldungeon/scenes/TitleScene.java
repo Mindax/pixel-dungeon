@@ -38,10 +38,10 @@ import com.watabou.pixeldungeon.ui.PrefsButton;
 
 public class TitleScene extends PixelScene {
 
-	private static final String TXT_PLAY		= "Play";
-	private static final String TXT_HIGHSCORES	= "Rankings";
+	private static final String TXT_PLAY		= "Kill them";
+	private static final String TXT_HIGHSCORES	= "Dein Rang";
 	private static final String TXT_BADGES		= "Badges";
-	private static final String TXT_ABOUT		= "About";
+	private static final String TXT_ABOUT		= "Lese mich";
 	
 	@Override
 	public void create() {
